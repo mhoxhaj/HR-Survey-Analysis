@@ -1,7 +1,6 @@
 # Survey Data Analysis and Visualization of Washington State City Employees
 This project focuses on analyzing survey response data from approximately 1,500 city employees in Washington State. 
 The analysis aims to clean, prepare, and visualize the data to derive key insights for the HR leadership team.
-## Objectives 
 ### Objective 1
 a.	Calculate the minimum, maximum, count, and number of blanks for each numerical field
 b.	Remove any records with blank responses
